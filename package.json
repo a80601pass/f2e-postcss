@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/a80601pass/f2e-postcss#readme",
   "dependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "babel-loader": "^8.0.5",
     "jquery": "^3.3.1",
     "normalize.css": "^8.0.1"
   },
